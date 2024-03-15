@@ -3,3 +3,4 @@ git status
 git add filename
 git commit -m "message"
 git log  options       ------------- "--oneline" "--pretty" 
+git clone [URL]
