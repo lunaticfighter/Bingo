@@ -10,4 +10,3 @@ git remote set-url
 
 1. production -> stagin -> dev
 jira - Produ t management application
-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
