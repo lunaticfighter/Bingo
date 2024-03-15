@@ -4,4 +4,5 @@ git add filename
 git commit -m "message"
 git log  options       ------------- "--oneline" "--pretty" 
 git clone [URL]
-git pull origin main  -  to get details from github for any particualr branxh onlyu
+git remote -v 
+git pull origin main-  to get details from github for any particualr branxh onlyu
