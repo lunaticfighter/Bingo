@@ -7,3 +7,6 @@ git clone [URL]
 git remote -v 
 git pull origin main-  to get details from github for any particualr branxh onlyu
 git remote set-url
+
+1. production -> stagin -> dev
+jira - Produ t management application
