@@ -10,3 +10,8 @@ git remote set-url
 
 1. production -> stagin -> dev
 jira - Produ t management application
+
+
+git fetch -> git merge [brach name]
+
+git merge master --squash 
